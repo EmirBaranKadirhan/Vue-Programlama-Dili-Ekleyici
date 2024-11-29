@@ -10,7 +10,13 @@ Bir Vue.js uygulaması ile programlama dillerinizi ekleyip yönetebilir, öğren
 
 
 ## Ekran Görüntüsü
+![vueUygulamaIciResim1](src/assets/uygulamaIciResimler/vueUygulamaIciResim1)
 
+![vueUygulamaIciResim2](src/assets/uygulamaIciResimler/vueUygulamaIciResim2)
+
+![vueUygulamaIciResim5](src/assets/uygulamaIciResimler/vueUygulamaIciResim3)
+
+![vueUygulamaIciResim4](src/assets/uygulamaIciResimler/vueUygulamaIciResim4)
 
 ## Teknolojiler
 - Vue.js
