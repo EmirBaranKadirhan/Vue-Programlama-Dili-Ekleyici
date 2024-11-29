@@ -32,16 +32,14 @@ Bir Vue.js uygulaması ile programlama dillerinizi ekleyip yönetebilir, öğren
 1. **Projenin GitHub'dan İndirilmesi**:
    ```bash
    git clone https://github.com/EmirBaranKadirhan/Vue-Programlama-Dili-Ekleyici.git
-   Proje Klasörüne Geçiş:
+2. **Proje Klasörüne Geçiş**:
+   ```bash
    cd gorevlistesiprojem                      
-   Bağımlılıkların Yüklenmesi:
+ 3. **Bağımlılıkların Yüklenmesi**:
+   ```bash
    npm install
-   Projenin Çalıştırılması:
-   npm run serve
-   JSON Server'ın Kurulması ve Çalıştırılması:
-   npm install -g json-server
-   json-server --watch db.json
-
+   
+ 
 
 ## Kullanım
 Projeyi çalıştırdıktan sonra, Vue.js uygulamanız üzerinde yeni programlama dilleri ekleyebilir ve JSON Server üzerinde bu verileri görüntüleyebilirsiniz. Veritabanı db.json dosyasında tutulur ve bu dosya güncellemelerle otomatik olarak senkronize edilir.
