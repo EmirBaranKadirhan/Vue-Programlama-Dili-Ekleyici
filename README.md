@@ -55,7 +55,7 @@ Bir Vue.js uygulaması ile programlama dillerinizi ekleyip yönetebilir, öğren
 5.**JSON Server'ın Kurulması ve Çalıştırılması:**:
    ```bash
    npm install -g json-server
-   json-server --watch db.json
+   json-server --watch data/db.json
    ```   
  
 
