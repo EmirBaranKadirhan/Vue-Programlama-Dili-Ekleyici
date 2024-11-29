@@ -1,0 +1,52 @@
+{
+  "programingLanguages": [
+    {
+      "id": "1",
+      "languageName": "Python",
+      "details": "Python, yüksek seviyeli, genel amaçlı ve açık kaynaklı bir programlama dilidir. Basit sözdizimi ve geniş kütüphane desteği sayesinde, veri bilimi, web geliştirme, yapay zeka, otomasyon ve daha birçok alanda yaygın olarak kullanılır. Hem yeni başlayanlar hem de deneyimli geliştiriciler için uygun, okunması kolay ve güçlü bir dildir.",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "languageName": "JavaScript",
+      "details": "JavaScript, web geliştirme için kullanılan, yüksek seviyeli ve dinamik bir programlama dilidir. Web sayfalarına etkileşim ve işlevsellik eklemek için tarayıcılar tarafından desteklenir. Sunucu tarafı uygulamaları için de Node.js gibi platformlarda kullanılabilir. JavaScript, nesne tabanlı yapıları ve asenkron programlama yetenekleriyle dikkat çeker, ve web sayfalarında kullanıcı etkileşimlerini işlemek, veri doğrulamak ve içerik manipülasyonu yapmak gibi birçok işlevi yerine getirebilir.",
+      "complete": false
+    },
+    {
+      "id": "3",
+      "languageName": "Vue.js",
+      "details": "Vue.js, kullanıcı arayüzleri ve tek sayfa uygulamaları geliştirmek için kullanılan, basit ve esnek bir JavaScript framework'üdür.",
+      "complete": false
+    },
+    {
+      "id": "4",
+      "languageName": "SQL",
+      "details": "SQL (Structured Query Language), ilişkisel veritabanı yönetim sistemleri (RDBMS) ile iletişim kurarak veritabanındaki verilere erişim sağlayan ve bu veriler üzerinde işlem yapabilen bir sorgulama dilidir. Veri sorgulama, ekleme, güncelleme, silme gibi işlemleri standart bir dil yapısıyla gerçekleştiren SQL, veritabanı tasarımı ve yönetiminde kullanılır. Temel SQL komutları arasında SELECT, INSERT, UPDATE, DELETE, CREATE, ve DROP yer alır. SQL, veritabanı sistemleri arasında veri manipülasyonunu ve yönetimini kolaylaştıran, endüstri genelinde kabul gören bir dildir.",
+      "complete": true
+    },
+    {
+      "id": "9e6e",
+      "languageName": "HTML",
+      "details": "HTML, web sayfalarının yapısını tanımlamak için kullanılan temel işaretleme dilidir. Başlıca başlıklar, paragraflar, bağlantılar, liste ve diğer öğeler gibi içeriklerin web tarayıcılarında nasıl görüntüleneceğini belirler.",
+      "complete": true
+    },
+    {
+      "id": "8fd6",
+      "languageName": "CSS",
+      "details": "CSS, web sayfalarının görünümünü ve düzenini biçimlendirmek için kullanılan bir stil dilidir. HTML öğelerinin renklerini, boyutlarını, yerleşimini ve diğer görsel özelliklerini kontrol eder.",
+      "complete": true
+    },
+    {
+      "id": "1e26",
+      "languageName": "Bootstrap",
+      "details": "Bootstrap, web tasarımı için popüler bir açık kaynaklı ön yüz (front-end) çerçevesidir. HTML, CSS ve JavaScript bileşenlerinden oluşur, responsive (duyarlı) tasarımlar oluşturmayı kolaylaştırır ve çok sayıda önceden tanımlanmış şablon içerir.",
+      "complete": true
+    },
+    {
+      "id": "7e6f",
+      "languageName": "Streamlit",
+      "details": "Streamlit, Python ile veri uygulamaları ve interaktif web arayüzleri oluşturmayı kolaylaştıran bir açık kaynak kütüphanedir. Verileri hızla görselleştirmek ve kullanıcı etkileşimini sağlamak için basit bir API sunar. Veri bilimcileri ve geliştiriciler için, Python kodu yazarak birkaç satırda web uygulamaları oluşturmayı mümkün kılar.",
+      "complete": true
+    }
+  ]
+}
