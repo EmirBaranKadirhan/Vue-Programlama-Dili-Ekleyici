@@ -1,29 +1,72 @@
-# gorevlistesiprojem
+# Vue-Programlama-Dili-Ekleyici
+Bir Vue.js uygulaması ile programlama dillerinizi ekleyip yönetebilir, öğrenim durumunuzu takip edebilirsiniz.
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Özellikler
+- Programlama dillerini ekleyebilme
+- Ekleme işlemlerini kaydedebilme ve düzenleyebilme
+- JSON Server ile veritabanı yönetimi
+- Verilerin liste şeklinde görüntülenmesi
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+## Ekran Görüntüsü
+![vueUygulamaIciResim1](src/assets/uygulamaIciResimler/vueUygulamaIciResim1.PNG)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+![vueUygulamaIciResim2](src/assets/uygulamaIciResimler/vueUygulamaIciResim2.PNG)
 
-## Project Setup
+![vueUygulamaIciResim5](src/assets/uygulamaIciResimler/vueUygulamaIciResim3.PNG)
 
-```sh
-npm install
-```
+![vueUygulamaIciResim4](src/assets/uygulamaIciResimler/vueUygulamaIciResim4.PNG)
 
-### Compile and Hot-Reload for Development
+## Teknolojiler
+- Vue.js
+- JSON Server
+- db.json
+- HTML
+- CSS
+- JavaScript
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
+## Kurulum
 
-```sh
-npm run build
-```
+### Gereksinimler
+
+- Node.js
+
+### Adım Adım Kurulum
+
+
+1.**Projenin GitHub'dan İndirilmesi**:
+   ```bash
+   git clone https://github.com/EmirBaranKadirhan/Vue-Programlama-Dili-Ekleyici.git
+   ```
+2.**Proje Klasörüne Geçiş**:
+   ```bash
+   cd Vue-Programlama-Dili-Ekleyici
+   ```
+3.**Bağımlılıkların Yüklenmesi**:
+   ```bash
+   npm install
+   ```
+4.**Projenin Çalıştırılması**:
+   ```bash
+   npm run serve
+   ```
+5.**JSON Server'ın Kurulması ve Çalıştırılması:**:
+   ```bash
+   npm install -g json-server
+   json-server --watch db.json
+   ```   
+ 
+
+## Kullanım
+Projeyi çalıştırdıktan sonra, Vue.js uygulamanız üzerinde yeni programlama dilleri ekleyebilir ve JSON Server üzerinde bu verileri görüntüleyebilirsiniz. Veritabanı db.json dosyasında tutulur ve bu dosya güncellemelerle otomatik olarak senkronize edilir.
+
+## Katkıda Bulunma
+Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen bir pull request göndermeden önce issue oluşturun ve önerilerinizi paylaşın.
+
+
+
+
+
+
