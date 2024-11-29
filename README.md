@@ -29,16 +29,28 @@ Bir Vue.js uygulaması ile programlama dillerinizi ekleyip yönetebilir, öğren
 
 ### Adım Adım Kurulum
 
-1. **Projenin GitHub'dan İndirilmesi**:
+
+1.**Projenin GitHub'dan İndirilmesi**:
    ```bash
    git clone https://github.com/EmirBaranKadirhan/Vue-Programlama-Dili-Ekleyici.git
-2. **Proje Klasörüne Geçiş**:
+   ```
+2.**Proje Klasörüne Geçiş**:
    ```bash
-   cd gorevlistesiprojem                      
- 3. **Bağımlılıkların Yüklenmesi**:
+   cd Vue-Programlama-Dili-Ekleyici
+   ```
+3.**Bağımlılıkların Yüklenmesi**:
    ```bash
    npm install
-   
+   ```
+4.**Projenin Çalıştırılması**:
+   ```bash
+   npm run serve
+   ```
+5.**JSON Server'ın Kurulması ve Çalıştırılması:**:
+    ```bash
+   npm install -g json-server
+   json-server --watch db.json
+   ```   
  
 
 ## Kullanım
