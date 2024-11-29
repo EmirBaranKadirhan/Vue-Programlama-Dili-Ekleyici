@@ -33,7 +33,7 @@ Bir Vue.js uygulaması ile programlama dillerinizi ekleyip yönetebilir, öğren
    ```bash
    git clone https://github.com/EmirBaranKadirhan/Vue-Programlama-Dili-Ekleyici.git
 2. Proje Klasörüne Geçiş:
-   cd gorevlistesiprojem                      // dosya isminde karisiklik olmus
+   cd gorevlistesiprojem                      
 3. Bağımlılıkların Yüklenmesi:
     npm install
 4. Projenin Çalıştırılması:
