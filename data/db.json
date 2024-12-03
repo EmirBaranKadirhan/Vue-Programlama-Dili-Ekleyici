@@ -1,0 +1,226 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "SICAK KAHVELER",
+        "categoryIMG":"https://st2.depositphotos.com/4404267/7200/i/450/depositphotos_72002723-stock-photo-hot-espresso-coffee-in-a.jpg",
+        "products": [
+          {
+            "id": 101,
+            "name": "Espresso",
+            "price": "100 TL",
+            "ingredients": ["Çiçeksi kahve çekirdekleri", "Sıcak su"],
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1XLrHmCcLYgEfWozBfAbdMEYDs6up_zZK_A&s"
+          },
+          {
+            "id": 102,
+            "name": "Latte",
+            "price": "110 TL",
+            "ingredients": ["Espresso", "Süt", "Süt köpüğü"],
+            "img":"https://www.tchibo.com.tr/newmedia/page/img/f628284b186b0b34/image_match.jpg"
+          },
+          {
+            "id": 103,
+            "name": "Cappuccino",
+            "price": "120 TL",
+            "ingredients": ["Espresso", "Süt", "Yoğun süt köpüğü", "Kakao veya tarçın"],
+            "img":"https://illy.barista.com.tr/cdn/shop/articles/illy_cappuccino_tarifi.jpg?v=1600946452&width=500"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "SOĞUK KAHVELER",
+        "categoryIMG":"https://i.lezzet.com.tr/images-xxlarge-recipe/soguk-kahve-b4a7d7d1-4732-4921-ac65-c91774cb705a.jpg",
+        "products": [
+          {
+            "id": 201,
+            "name": "Iced Espresso",
+            "price": "100 TL",
+            "ingredients": ["Espresso", "Buz", "Su (isteğe bağlı şeker)"],
+            "img":"https://images.squarespace-cdn.com/content/v1/5e5be427805a63534f1344ad/1686918670481-MLTE8CVWXELB9J2DGGM6/Brewing-With-Dani-home-barista-online-course-iced-espresso-drink-iced-latte.jpeg"
+          },
+          {
+            "id": 202,
+            "name": "Iced Latte",
+            "price": "110 TL",
+            "ingredients": ["Espresso", "Süt", "Buz", "Şeker şurubu (isteğe bağlı)"],
+            "img":"https://images.ctfassets.net/v601h1fyjgba/4GLzOncHIe8rq3xY099cZ/dd17ce72ebb6fb01659c763fe64953db/Iced_Latte.jpg"
+          },
+          {
+            "id": 203,
+            "name": "Iced Cappuccino",
+            "price": "120 TL",
+            "ingredients": ["Espresso", "Süt", "Yoğun süt köpüğü", "Buz", "Kakao veya tarçın"],
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGjU-RCpwI5JsnibjL1T0vyS9c3xqRP-CCQ&s"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "YEMEKLER",
+        "categoryIMG":"https://hosbescafe.com/wp-content/uploads/2023/02/1662584188805_500x375.jpg",
+        "products": [
+          {
+            "id": 301,
+            "name": "Körili Tavuk",
+            "price": "270 TL",
+            "ingredients": ["Tavuk göğsü","Körili sos","Soğan","Sarımsak","Kremalı süt","Baharatlar","Zeytinyağı"],
+            "img":"https://i.nefisyemektarifleri.com/2022/04/14/kori-soslu-kremali-mantarli-tavuk-videolu-2.jpg"
+          },
+          {
+            "id": 302,
+            "name": "Hamburger Menü",
+            "price": "250 TL",
+            "ingredients": ["Dana kıyma", "Hamburger ekmeği", "Marul", "Domates", "Soğan", "Cheddar peyniri", "Ketçap", "Mayonez", "Tuz", "Kararbiber"],
+            "img":"https://images.deliveryhero.io/image/fd-tr/LH/l56f-listing.jpg"
+          },
+          {
+            "id": 303,
+            "name": "Pizza",
+            "price": "280 TL",
+            "ingredients": ["Pizza hamuru", "Domates sosu", "Mozzarella peyniri", "Sucuk", "Mantar", "Biber", "Zeytin"],
+            "img":"https://cdn.yemek.com/mnresize/940/940/uploads/2020/08/ev-yapimi-pizza-tarifi.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "TATLILAR",
+        "categoryIMG":"https://adaistiklal.com.tr/upload/resimler/tatlilar_1.jpg",
+        "products": [
+          {
+            "id": 401,
+            "name": "Cheesecake",
+            "price": "140 TL",
+            "ingredients": ["Labne peyniri", "Krem peynir", "Yumurta", "Şeker", "Bisküvi tabanı", "Tereyağı"],
+            "img":"https://cdn.yemek.com/mnresize/1250/833/uploads/2023/10/frambuazli-cheesecake-yemekcom.jpg"
+          },
+          {
+            "id": 402,
+            "name": "Brownie",
+            "price": "170 TL",
+            "ingredients": ["Dark çikolata", "Tereyağı", "Yumurta", "Şeker", "Un", "Kakao", "Ceviz"],
+            "img":"https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/76446573-CCF5-433C-976F-161020604BEF/Derivates/383ED049-30B7-49B2-95DB-9A01ECBD36BA.jpg"
+          },
+          {
+            "id": 403,
+            "name": "Ekler",
+            "price": "90 TL",
+            "ingredients": ["Un", "Su", "Tereyağı", "Yumurta", "Süt", "Şeker", "Krem şanti", "Çikolata sosu"],
+            "img":"https://www.recipetineats.com/tachyon/2022/11/Eclairs_0a.jpg?resize=500%2C375"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "KAHVALTILAR",
+        "categoryIMG": "https://cdn2.enuygun.com/media/lib/1200x675/uploads/image/turk-kahvalti-57436.webp",
+        "products": [
+          {
+            "id": 501,
+            "name": "Menemen",
+            "price": "100 TL",
+            "ingredients": ["Yumurta", "Domates", "Biber", "Sıvı yağ", "Tuz"],
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Oc2XoeC9XBJ0lZUW6nG4sRiRJbRlQ-CxRA&s"
+          },
+          {
+            "id": 502,
+            "name": "Simit ve Peynir",
+            "price": "50 TL",
+            "ingredients": ["Simit", "Beyaz peynir", "Zeytin", "Domates"],
+            "img": "https://image-tc.galaxy.tf/wijpeg-57jyjo8dpt57rmduxnw45zwz2/358445_standard.jpg?crop=160%2C0%2C960%2C720"
+          },
+          {
+            "id": 503,
+            "name": "Kahvaltı Tabağı",
+            "price": "175 TL",
+            "ingredients": ["Yumurta", "Peynir çeşitleri", "Zeytin", "Sosis", "Salatalık", "Domates"],
+            "img": "https://coordinatsuits.com/image/cache/catalog/menu/kahvaltilar/kahvalti-600x415h.webp"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "SALATALAR",
+        "categoryIMG": "https://cdn.shopify.com/s/files/1/0255/4449/1088/articles/zeytinyagli-salata-tarifi.jpg?v=1659966890",
+        "products": [
+          {
+            "id": 601,
+            "name": "Akdeniz Salatası",
+            "price": "170 TL",
+            "ingredients": ["Marul", "Domates", "Salatalık", "Zeytin", "Feta peyniri"],
+            "img": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/ogt/beyaz-peynirli-akdeniz-salatasi.webp"
+          },
+          {
+            "id": 602,
+            "name": "Çoban Salata",
+            "price": "175 TL",
+            "ingredients": ["Domates", "Salatalık", "Soğan", "Yeşil biber", "Limon suyu"],
+            "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/07/coban-salata-one-cikan.jpg"
+          },
+          {
+            "id": 603,
+            "name": "Ton Balıklı Salata",
+            "price": "180 TL",
+            "ingredients": ["Marul", "Ton balığı", "Mısır", "Zeytin", "Yeşil soğan"],
+            "img": "https://cdn.yemek.com/mnresize/1250/833/uploads/2024/06/ton-balikli-peynirli-salata-yemekcom.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "İÇECEKLER",
+        "categoryIMG":"https://gurmenu.com/storage/5571/conversions/Zeminli-Kategoriler-18-cover_banner.webp",
+        "products": [
+          {
+            "id": 701,
+            "name": "Kola",
+            "price": "40 TL",
+            "img":"https://cdn.dsmcdn.com/mnresize/400/-/ty442/product/media/images/20220528/9/117177941/488914934/1/1_org.jpg"
+          },
+          {
+            "id": 702,
+            "name": "Sprite",
+            "price": "40 TL",
+            "img":"https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/48857/uploads/urunresimleri/buyuk/1036040-aecdc5.jpg"
+          },
+          {
+            "id": 703,
+            "name": "Su",
+            "price": "25 TL",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf87BqkF_8VQx-GNQIgWCYSSuZAtqZnRXWIQ&s"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "NARGİLELER",
+        "categoryIMG":"https://karekodrestaurantmenu.com/Pictures/ba9472a1-5298-481f-9806-d96d415364c8.png",
+        "products": [
+          {
+            "id": 801,
+            "name": "Tütün 1",
+            "price": "300 TL",
+            "ingredients": ["Şekerli tütün", "Nane aroması", "Meyve aroması"],
+            "img":"https://ideacdn.net/idea/ha/32/myassets/products/508/site-1.jpg?revision=1731916445"
+          },
+          {
+            "id": 802,
+            "name": "Tütün 2",
+            "price": "400 TL",
+            "ingredients": ["Şekerli tütün", "Çilek aroması", "Vanilya aroması"],
+            "img":"https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=85/61645/uploads/urunresimleri/buyuk/e29-boss-ozel-uretim-serisi-37-928.jpeg"
+          },
+          {
+            "id": 803,
+            "name": "Tütün 3",
+            "price": "500 TL",
+            "ingredients": ["Şekerli tütün", "Üzüm aroması", "Nane aroması"],
+            "img":"https://ideacdn.net/idea/ha/32/myassets/products/846/gold1.jpeg?revision=1720108373"
+          }
+        ]
+      }
+    ]
+  }
+  

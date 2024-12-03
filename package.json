@@ -7,8 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@jamescoyle/vue-icon": "^0.1.2",
+    "@mdi/font": "^7.4.47",
+    "@mdi/js": "^7.4.47",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "vue-carousel": "^0.18.0",
+    "vue-router": "^4.0.3",
+    "vue3-carousel": "^0.8.1",
+    "vuetify": "^3.7.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-router": "~5.0.0",
